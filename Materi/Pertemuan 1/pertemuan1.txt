@@ -1,0 +1,17 @@
+ - World Wide Web Consortium (W3C) W3.ORG -> Organisasi yang bekerja sama untuk mengembangkan standar web.
+ - html 
+ - tag elemen html -> pembuka tag, isi tag, penutup tag, ada beberapa tag yang tidak memiliki penutup seperti <img>
+ - tag bagian head, body
+ - mencetak hello world
+ - struktur tag -> nama tag, atribut , value/nilai
+ - atribut global, cth: class, id, title, style
+ - copy secara langsung: alt + shift + arah bawah
+ - <b> dan <strong> 
+ - <em> dan <i>
+ - <dl> = defenition list, <dt> term, <dd> description
+ - jangan sembarangan mengambil link gambar dari website lain ke tag <img src=""> kita, akan berpengaruh pada 
+    bandwidth web kita ataupun bisa terkena hak cipta
+ - <td> table data
+ - ALT - Click mengganti secara bersamaan
+
+ - tugas, buat tampilan
