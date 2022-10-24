@@ -1,0 +1,5 @@
+Cascading Style Sheets
+- anatomi css: selector, property, value
+- penempatan css: embed, inline, external
+- font-family: font style, generic family
+- specificity calculator -> untuk css specificity
