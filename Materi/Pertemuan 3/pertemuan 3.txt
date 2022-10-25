@@ -1,0 +1,20 @@
+- https://squoosh.app/ -> website image compressing 
+- Layouting CSS -> pengaturan tata letak
+- CSS Display 
+-   div -> Display = block
+    span -> Display = inline 
+- display default value -> block, inline, inline-block, none
+- inline -> tdk dapat mengatur tinggi dan lebar. padding dan margin hanya berpengaruh scr horizontal
+- inline-block -> tdk ada elemen scr default memiliki display ini, harus di ubah scr manual
+- overflow
+- box model 
+  margin -> bagian terluar, 
+  padding -> antara konten dan border, 
+  border -> batas keliling padding dan konten, 
+  content -> konten di dalam box, bisa berupa text atau gambar
+- CSS Reset -> padding, margin, dan border di atur valuenya ke 0
+- https://meyerweb.com/eric/tools/css/reset/ salah satu penyedia css reset
+- Float
+- Position : static, relative, absolute, fixed
+  -> biasanya ada di sumbu Z
+- z-index
