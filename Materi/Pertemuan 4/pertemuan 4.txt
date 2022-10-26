@@ -1,0 +1,9 @@
+CSS Framework -> kerangka kerja untuk memudahkan ketika mengembangkan suatu aplikasi tepatnya di baagian desain
+              -> berisi kumpulan css siap pakai
+              -> menyediakan berbagai macam elemen desain
+              -> contoh css Framework: bootstrap, tailwind
+- bootstrap dibuat pada tahun 2011 oleh desainer dan developer twitter
+- grid system untuk mengatur tata letak
+- class container -> container dan container-fluid
+- class row dan col -> membuat baris dan kolom
+- media query -> modul css3 yang membuat web kita responsive
