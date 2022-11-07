@@ -1,0 +1,13 @@
+Komunikasi Antar Komponen
+- komunikasi parent ke child -> menggunakan props
+- komunikasi child ke parent
+
+Mengkonsumsi API menggunakan axios
+- API (Application Programming Interface) adalah penerjemah komunikasi antara klien dengan server
+	mempunyai sekumpulan perintah, fungsi, dan protokol yang digunakan saat membangun perangkat lunak
+- Axios, library open source yang memiliki banyak kelebihan dan kemudahan
+	instalasi: npm i axios
+	perintah: GET 
+		  POST 
+		  PUT
+		  DELETE

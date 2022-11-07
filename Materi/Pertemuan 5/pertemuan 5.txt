@@ -1,0 +1,20 @@
+Javascript
+- Tipe data Javascript: number, string, boolean, object, function, undifined
+Number
+- di Javascript tidak ada integer, disebutnya number atau floating point
+- jangan pernah mengawali angka dengan 0, akan dianggap sebagai hexadesimal
+- angka infinity, contoh: 2/0 -> infinity, dan -2/0 -> -infinity
+- angka NaN, contoh: 0/0 -> NaN, 100/"pisang" -> NaN
+- ada suatu case seperti 100/"10", dia mengembalikan number 10 karena "10" ini masih dikenali sebagai number
+String -> data tekstual
+Boolean -> digunakan utk mengembalikan nilai true dan false
+
+Operator
+    binary, butuh 2 operan -> aritmatika(+,-,*,/,%), penugasan(=,+=,-=, *=, /=, %=), 
+        perbandingan(==,!=,===,!===,<,>,<=,>=), logika(&&,||,!), string(+),  
+    ternary, butuh 3 operan -> kondisional, cth:  (11 % 2 == 0) ? 'genap' : 'ganjil'
+    unary, butuh 1 operan atau satu operator -> typeof, cth: typeof("pen") = 'string'
+
+Variable -> deklarasi, inisialisasi, assignment 
+    
+Popup Box -> alert, prompt, confirm

@@ -1,0 +1,29 @@
+NPM (Node Package Manager)
+- npmjs.com
+- npm install nama_package
+
+NVM (Node Version Manager)
+- untuk menggunakan beberapa versi node.js di satu komputer
+
+BootstrapVue
+
+Property yang ada di Vue.js
+- methods -> mengeksekusi function yang kita buat,	
+- computed -> mengolah value yang berasal dari data atau v-model, menyimpan di cache, dan mengembalikan dan mengevaluasi nilainya
+- watch -> melihat perubahan yang terjadi ketika suatu aksi dilakukan
+
+Lifecycle & Hook
+- Creation -> lifecycle yang pertama kali dijalankan pd component
+  1.beforeCreate
+  2.created
+- Mounting -> memungkinkan kita mengakses DOM persis sebelum dan sesudah template di render
+  1. Mounted -> di eksekusi setelah template di render, seperti kita menempelkan js di html
+  2. BeforeMount
+
+
+
+
+
+
+
+dom = document object model

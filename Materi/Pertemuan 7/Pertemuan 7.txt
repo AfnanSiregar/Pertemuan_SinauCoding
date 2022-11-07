@@ -1,0 +1,9 @@
+Vue.js
+- Routing -> url/path
+- Vue Directive -> penulisannya diawali huruf "v-"
+		-> atribut yang menjalankan perintah javascript
+- directive v-for disertai dengan v-bind
+- directive v-on -> untuk event
+- directive v-model -> menyambungkan kode html dengan data yang dimiliki javascript
+- directive v-if v-elseif v-else -> untuk percabangan
+- directive v-bind mengikat data yang kita miliki
